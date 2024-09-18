@@ -1,1 +1,1 @@
-# Separador-de-textos
+# Separador de textos
